@@ -11,16 +11,16 @@
 /* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
 */
 .mdl-ripple {
-  background: #000;
+background: #000;
   opacity: 0.001;
 }
 
 body {
-  background-color: rgb(201 221 230);
+  background-color: rgb(206 220 206);
 }
 
 p {
-  color: rgb(35 67 85);
+  color: rgb(135 102 91);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.5rem;
   padding-top: 5pt;
