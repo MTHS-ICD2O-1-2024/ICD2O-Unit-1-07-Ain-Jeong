@@ -14,7 +14,7 @@
 }
 
 .mdl-textfield__error {
-  color: rgb(222, 197, 197);
+  color: rgb(222 197 197);
 }
 
 .page-content {
@@ -24,7 +24,7 @@
 }
 
 body {
-  background-color: rgb(194, 172, 187);
+  background-color: rgb(194 172 187);
 }
 
 img {
